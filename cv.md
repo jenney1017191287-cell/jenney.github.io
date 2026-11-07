@@ -1,8 +1,8 @@
-# 👉 Your Full Name
-Email: 👉 youremail@xxx.com | Phone: 👉 123456789
+# Bai Zhenni
+Email: jenney1017191287@gmail.com | Phone: 655795568
 
 ## Education
-👉 University Name, Program, Year
+Payap University, International Business Management, 2026
 
 ## Work Experience
 No work experience yet
